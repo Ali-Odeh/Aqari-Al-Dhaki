@@ -22,10 +22,9 @@ Aqari Al Dhaki is an AI-powered platform designed to predict apartment prices in
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AlaaArmoush/Aqari-Al-Dhaki.git
+   git clone https://github.com/Ali-Odeh/Aqari-Al-Dhaki.git
    cd Aqari-Al-Dhaki
-   ```
-
+ 
 2. Create and activate a virtual environment if you don't already have one (recommended).
    The examples below create a .venv folder inside the project; change the name if you prefer another location.
 
